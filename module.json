@@ -15,7 +15,7 @@
     "bugs": "https://github.com/astrojord/dnd5e-status-icons/issues",
      "compatibility": {
         "minimum": "13",
-        "verified": "13.351",
+        "verified": "13.351"
     },
     "description": "Fork of orangetruth's repository updating the manifest for Foundry v13+. Status icons for 5e-specific conditions. Icons created by u/JinxShadow on Reddit  (https://drive.google.com/drive/folders/1p8PTqBHkgSrKVqqOyI2_kFcPmbgLcX72)",
     "download": "https://github.com/astrojord/dnd5e-status-icons/archive/main.zip",
@@ -30,4 +30,5 @@
     "url": "https://github.com/orangetruth/dnd5e-status-icons",
     "version": "1.0.1"
 }
+
 
