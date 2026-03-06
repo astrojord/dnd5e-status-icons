@@ -1,4 +1,5 @@
 {
+    "id": "dnd5e-status-icons",
     "authors": [
         {
             "name": "orangetruth",
@@ -11,21 +12,22 @@
             "email": "jinxshadow8086@gmail.com"
         }
     ],
-    "bugs": "https://github.com/orangetruth/dnd5e-status-icons/issues",
+    "bugs": "https://github.com/astrojord/dnd5e-status-icons/issues",
      "compatibility": {
-        "minimum": "10.270",
-        "verified": "10.291"
+        "minimum": "13",
+        "verified": "13.351",
     },
-    "description": "Status icons for 5e-specific conditions. Icons created by u/JinxShadow on Reddit  (https://drive.google.com/drive/folders/1p8PTqBHkgSrKVqqOyI2_kFcPmbgLcX72)",
-    "download": "https://github.com/orangetruth/dnd5e-status-icons/archive/main.zip",
-    "manifest": "https://raw.githubusercontent.com/orangetruth/dnd5e-status-icons/main/module.json",
+    "description": "Fork of orangetruth's repository updating the manifest for Foundry v13+. Status icons for 5e-specific conditions. Icons created by u/JinxShadow on Reddit  (https://drive.google.com/drive/folders/1p8PTqBHkgSrKVqqOyI2_kFcPmbgLcX72)",
+    "download": "https://github.com/astrojord/dnd5e-status-icons/archive/main.zip",
+    "manifest": "https://raw.githubusercontent.com/astrojord/dnd5e-status-icons/main/module.json",
     "name": "dnd5e-status-icons",
-    "readme": "https://github.com/orangetruth/dnd5e-status-icons/blob/main/README.md",
+    "readme": "https://github.com/astrojord/dnd5e-status-icons/blob/main/README.md",
     "scripts": [
         "./dnd5e-status-icons.js"
     ],
     "system": "dnd5e",
     "title": "DnD5e Status Icons",
     "url": "https://github.com/orangetruth/dnd5e-status-icons",
-    "version": "1.0.0"
+    "version": "1.0.1"
 }
+
