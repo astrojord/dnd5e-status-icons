@@ -1,4 +1,7 @@
 # dnd5e-status-icons
+
+### Forked from orangetruth/dnd5e-status-icons - this is a minimum-effort update to the `manifest.json` to make it compatible with Foundry major version 13. The original README is reproduced in full below:
+-------------------------
 A FoundryVTT module for 5e-specific token markers for various conditions. Icons created by [u/JinxShadow](https://www.reddit.com/user/JinxShadow/) on Reddit and can be found here on [GoogleDrive](https://drive.google.com/drive/folders/1p8PTqBHkgSrKVqqOyI2_kFcPmbgLcX72). If you appreciate the icons, tips can be sent to JinxShadow through PayPal at jinxshadow8086@gmail.com.
 
 This module contains 65 condition markers:
